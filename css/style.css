@@ -84,11 +84,12 @@ header nav .branding{
 }
 
 .hero .right p a{
-    color:var(--pure);
+    color:var(--primary);
+    text-decoration: none;
 }
 
 .hero .right p a:hover{
-    color:var(--primary);
+    color:var(--ternary);
 }
 
 .hero .right{
