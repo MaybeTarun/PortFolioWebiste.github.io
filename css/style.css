@@ -257,7 +257,7 @@ section.works .card-wrapper{
 section.works .card-wrapper .card img{
     width:350px;
     height: 350px;
-    object-fit: contain;
+    object-fit: cover;
 }
 
 section.works .card-wrapper .card img:hover{
